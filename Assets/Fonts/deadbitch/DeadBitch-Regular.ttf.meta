@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff8d6e9e5eaa4e44a8bca2de14130c29
+timeCreated: 1612699443
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DeadBitch
+  fontNames:
+  - DeadBitch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 812787dc21305d542b165a7ec58f9f7d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
